@@ -2,7 +2,7 @@
 
 An interactive, real-time 2D physics simulation built with **p5.js** that models the chaotic birth of a solar system within a volatile star cluster. Moving beyond hardcoded animations, this project implements a live ecosystem driven entirely by standard numerical physics integration, showing how order naturally emerges from cosmic chaos.
 
-👉 **[CLICK HERE TO RUN THE LIVE SIMULATION](PASTE_YOUR_P5JS_PRESENT_LINK_HERE)**
+👉 **https://editor.p5js.org/marvel.twoo11/sketches/RsrrxnvrK**
 
 ---
 
